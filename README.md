@@ -1,3 +1,3 @@
-# Tutorial
+#Project 01 FEND Udacity Mock Portfolio
 
-This is my tutorial repository.
+This is my repository for the First Project in the Udacity course.
